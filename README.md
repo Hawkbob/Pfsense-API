@@ -37,5 +37,11 @@ Você pode filtrar as regras diretamente no link, exemplo;<br><br>
 Agora é só fazer a chamada API usando método DELETE<br>
 Você pode usar o curl para ir testando antes de usar o script<br>
 Altere o Script conforme estiver configurado os nomes no seu pfSense.
-#
+
+## Deixando automatico
+Você pode usar o Cron do Linux para agendar uma tarefa de execução<br>
+desse script personalizada nos dias e horas que você quiser.
+
 ⚠️ **Crie um ambiente de teste antes de aplicar em produção.** 
+
+
